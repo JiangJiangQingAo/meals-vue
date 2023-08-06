@@ -1,4 +1,5 @@
 # 该项目是基于vue框架编写的汉堡售卖网页，请模拟手机打开链接
+# 该项目是本人练习vue所用，并没有商用。
 # 网站链接https://jiangjiangqingao.github.io/meals-vue/
 # 03_meals
 
