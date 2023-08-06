@@ -8,7 +8,7 @@ export const useMealsStore = defineStore("meals",{
             title: "汉堡包",
             desc: "百分百纯牛肉配搭爽脆酸瓜洋葱粒与美味番茄酱经典滋味让你无法抵挡！",
             price: 12,
-            img: "/images/meals/1.png"
+            img: "/meals-vue/images/meals/1.png"
         },
         {
             id: "2",
